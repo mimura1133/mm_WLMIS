@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Send", "MSN曲名通知.vcxproj", "{5D054336-79A9-487B-A1E7-C0647712D5F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Configure", "Configure\Configure.vcxproj", "{53635BBE-CD48-4BAC-99B9-81221C01E030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D054336-79A9-487B-A1E7-C0647712D5F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5D054336-79A9-487B-A1E7-C0647712D5F2}.Debug|Win32.Build.0 = Debug|Win32
+		{5D054336-79A9-487B-A1E7-C0647712D5F2}.Release|Win32.ActiveCfg = Release|Win32
+		{5D054336-79A9-487B-A1E7-C0647712D5F2}.Release|Win32.Build.0 = Release|Win32
+		{53635BBE-CD48-4BAC-99B9-81221C01E030}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53635BBE-CD48-4BAC-99B9-81221C01E030}.Debug|Win32.Build.0 = Debug|Win32
+		{53635BBE-CD48-4BAC-99B9-81221C01E030}.Release|Win32.ActiveCfg = Release|Win32
+		{53635BBE-CD48-4BAC-99B9-81221C01E030}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
